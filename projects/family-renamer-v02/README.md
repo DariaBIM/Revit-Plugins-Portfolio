@@ -34,6 +34,10 @@ Revit API · C# · .NET · WPF · MVVM
 
 **In development.** The main workflow is implemented; the latest build and supported Revit versions are being verified.
 
+## Representative code sample
+
+A focused [technical sample](../../code-samples/family-renamer/README.md) is available for review. It demonstrates the Revit command entry point, MVVM-compatible data model, validation logic, and transaction-based rename operation. The complete application remains private.
+
 ## Demonstration
 
 Screenshots and a short workflow video will be added soon.
