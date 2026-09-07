@@ -32,11 +32,6 @@ Revit API · C# · .NET · WPF · MVVM
 
 **Testing and refinement.** Core export modules are implemented. Runtime validation for Revit 2025 and parts of the PDF workflow are still in progress.
 
-## Media placeholders
+## Demonstration
 
-> **Add media here before sharing the final portfolio**
-
-- [ ] **Main screenshot:** export configuration window
-- [ ] **Workflow screenshot:** selected formats and export settings
-- [ ] **Result screenshot:** generated deliverable files
-- [ ] **Demo video/GIF:** complete multi-format export workflow
+Screenshots and a short workflow video will be added soon.
