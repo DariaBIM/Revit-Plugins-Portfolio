@@ -34,11 +34,6 @@ Revit API · C# · .NET · WPF · MVVM
 
 **In development.** The primary synchronization workflow is implemented and requires final runtime verification.
 
-## Media placeholders
+## Demonstration
 
-> **Add media here before sharing the final portfolio**
-
-- [ ] **Main screenshot:** synchronization-rule setup
-- [ ] **Workflow screenshot:** source, target, and processing scope
-- [ ] **Result screenshot:** synchronization report
-- [ ] **Demo video/GIF:** parameter-transfer workflow
+Screenshots and a short workflow video will be added soon.
