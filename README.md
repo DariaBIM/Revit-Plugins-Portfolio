@@ -25,6 +25,10 @@ I am a BIM Specialist with a background in structural engineering and multidisci
 - Safe, reviewable batch operations
 - Multi-version Revit plugin development
 
+## Representative code sample
+
+A focused architectural extract from [Family Renamer V02](code-samples/family-renamer/README.md) is available for technical review. It includes the Revit command entry point, a data model, validation logic, and a transaction-based rename service.
+
 ## Portfolio status
 
 Project descriptions are available now. Screenshots, short demonstrations, and verified compatibility details will be added progressively.
