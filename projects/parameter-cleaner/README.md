@@ -34,6 +34,11 @@ Revit API · C# · .NET · WPF · MVVM
 
 **Testing.** The core analysis interface and safety logic are implemented; final runtime checks are still required.
 
-## Demonstration
+## Media placeholders
 
-Screenshots and a short workflow video will be added soon.
+> **Add media here before sharing the final portfolio**
+
+- [ ] **Main screenshot:** parameter-analysis interface
+- [ ] **Workflow screenshot:** parameter matrix and selected cleanup scope
+- [ ] **Result screenshot:** preview or cleanup report
+- [ ] **Demo video/GIF:** safe parameter-cleanup workflow
