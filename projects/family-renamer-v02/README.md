@@ -34,11 +34,6 @@ Revit API · C# · .NET · WPF · MVVM
 
 **In development.** The main workflow is implemented; the latest build and supported Revit versions are being verified.
 
-## Media placeholders
+## Demonstration
 
-> **Add media here before sharing the final portfolio**
-
-- [ ] **Main screenshot:** family and type renaming interface
-- [ ] **Workflow screenshot:** imported CSV/XLSX data and proposed names
-- [ ] **Result screenshot:** renaming summary
-- [ ] **Demo video/GIF:** batch-renaming workflow
+Screenshots and a short workflow video will be added soon.
